@@ -19,5 +19,5 @@ Aplikasi Cek Nomor Genap/Ganjil adalah aplikasi Java yang membantu pengguna mene
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](https://github.com/Koezingone/AplikasiCekNomorGanjilGenap/blob/main/img/cekNomor.gif)
 
